@@ -16,9 +16,8 @@
 - 💬 Forte atuação em **integrações com Socket.IO, Webhooks**, notificações em tempo real e APIs REST
 - 💸 Projetos com **sistemas de pagamento complexos**: Mercado Pago, Stripe, crediário com PIX e automações financeiras
 - 📦 Experiência com **Docker**, deploys em **servidores VPS**, e integração com serviços externos (Frenet, Sankhya, WhatsApp)
-- 🔐 Implementações de **autenticação segura**, com tokens, controle de sessão por dispositivo e fingerprint de navegador
+- 🔐 Implementações de **autenticação segura**, com tokens, controle de sessão por dispositivo e utilização de httpOnly
 - 🧠 Crítico sobre legibilidade, manutenibilidade e organização de código — **testes e revisão fazem parte do meu processo**
-- 📁 Em breve: [Portfólio completo com meus projetos](https://github.com/maxyuri99) 🛠️
 
 ---
 
@@ -57,12 +56,22 @@
 
 ### 🧠 Projetos de Destaque
 
-- 🛒 **Crediário online com PIX**: cálculo automático de juros e multas, integração com Sankhya, Mercado Pago e baixa automatizada
-- 💬 **Bot de WhatsApp com Node.js**: envio e recebimento de mensagens com fila, sessão via Redis e controle de limite de crédito
-- 🔄 **Notificações em tempo real com Socket.IO**: eventos personalizados, autenticação por sessão e comunicação full-duplex
-- 📦 **Módulo de etiquetas e frete com Frenet**: geração de etiquetas, rastreio e emissão de comprovantes
-- 🌐 **Autenticação avançada**: cookies httpOnly + JWT + verificação de dispositivo + sessões múltiplas por usuário
-- 🐳 **Deploy com Docker em VPS**: múltiplos containers orquestrados, backups automatizados e ambientes isolados
+- 🛍️ **Plataforma de e-commerce com crediário e ERP Sankhya**  
+  Projeto full stack desenvolvido do zero usando **Next.js, NestJS, Oracle** e integração total com **Sankhya**.  
+  Implementações principais:
+  - 💸 Módulo completo de **crediário com PIX**, incluindo cálculo automático de juros e multa, agrupamento de parcelas e baixa automática no ERP.
+  - 📦 Integração com a **API Frenet** para cálculo de frete, geração de etiquetas, PDF de comprovante e rastreamento.
+  - 🔐 **Sistema de autenticação robusto** com tokens JWT + refresh em cookies httpOnly, fallback para Safari, controle de sessão por dispositivo com fingerprint e painel de revogação.
+  - 🔄 **Notificações em tempo real** com Socket.IO autenticado por sessionId, usado para aprovações de pagamento, alertas e mensagens do sistema.
+  - 🐳 **Ambiente containerizado com Docker** em VPS Linux, utilizando GitHub Actions para CI/CD e separação de containers por serviço.
+
+- 💬 **Bot de WhatsApp para aprovação de crédito**  
+  Aplicação Node.js que interage com supervisores e vendedores via WhatsApp para **aprovação automática de limite de crédito excedido**.  
+  Principais recursos:
+  - 🤖 Controle de sessões com Redis e identificação de dispositivos.
+  - ⏱️ Fila com tempo limite para resposta (BullMQ), expirando automaticamente se não houver ação.
+  - 🔁 Notificações automáticas para vendedor conforme decisão do supervisor.
+
 
 ---
 
