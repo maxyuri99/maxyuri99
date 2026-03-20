@@ -1,81 +1,78 @@
-<h1 align="center">Olá! Eu sou o Max Yuri 👨‍💻</h1>
+<h1 align="center">Max Yuri Ferreira dos Santos</h1>
+
 <p align="center">
-  Desenvolvedor Full Stack • Foco em performance, clean code e integrações robustas • Sempre aprendendo e construindo soluções reais
+  Desenvolvedor Full Stack com foco principal em backend, APIs, integrações e arquitetura de sistemas
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00DC82&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Node.js+%7C+React+%7C+TypeScript+%7C+Python;Delphi+%7C+PHP+%7C+Socket.IO+%7C+Oracle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00DC82&center=true&vCenter=true&width=700&height=60&lines=Node.js+%7C+TypeScript+%7C+React+%7C+Fastify;NestJS+%7C+Redis+%7C+BullMQ+%7C+Oracle" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## Sobre
 
-- 👨‍💻 Desenvolvedor Full Stack com foco em **clean code**, **boas práticas de arquitetura**, **componentização** e **escalabilidade**
-- 🧩 Sólida experiência com **Node.js**, **NestJS**, **React**, **Next.js**, **TypeScript**, **Python**, **Delphi** e **PHP**
-- 💬 Forte atuação em **integrações com Socket.IO, Webhooks**, notificações em tempo real e APIs REST
-- 💸 Projetos com **sistemas de pagamento complexos**: Mercado Pago, Stripe, crediário com PIX e automações financeiras
-- 📦 Experiência com **Docker**, deploys em **servidores VPS**, e integração com serviços externos (Frenet, Sankhya, WhatsApp)
-- 🔐 Implementações de **autenticação segura**, com tokens, controle de sessão por dispositivo e utilização de httpOnly
-- 🧠 Crítico sobre legibilidade, manutenibilidade e organização de código — **testes e revisão fazem parte do meu processo**
+Atuo como desenvolvedor Full Stack, mas minha experiência hoje está mais concentrada em backend. Trabalho principalmente com `Node.js` e `TypeScript`, desenvolvendo APIs, integrações, regras de negócio, autenticação, filas e processamento assíncrono.
+
+Tenho experiência com sistemas internos, backoffice, automação de processos, mensageria, controle de sessão, permissões e integração entre serviços legados e aplicações modernas. Também atuo no frontend quando necessário, principalmente em aplicações `React` conectadas a fluxos operacionais e administrativos.
+
+Gosto de trabalhar em problemas que exigem organização no backend, clareza nas regras e integração entre diferentes partes do sistema.
 
 ---
 
-### 💼 Tecnologias e Ferramentas
+## Stack principal
 
-#### Linguagens
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EA1D2C?style=for-the-badge&logoColor=white)
-
-#### Back-end
+### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA4C89?style=for-the-badge&logoColor=white)
 
-#### Front-end
+### Frontend
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### Banco de Dados
+### Banco de dados
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### DevOps & Infraestrutura
+### Infraestrutura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-Linux%20Servers-000?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-### 🧠 Projetos de Destaque
+## Projetos em destaque
 
-- 🛍️ **Plataforma de e-commerce com crediário e ERP Sankhya**  
-  Projeto full stack desenvolvido do zero usando **Next.js, NestJS, Oracle** e integração total com **Sankhya**.  
-  Implementações principais:
-  - 💸 Módulo completo de **crediário com PIX**, incluindo cálculo automático de juros e multa, agrupamento de parcelas e baixa automática no ERP.
-  - 📦 Integração com a **API Frenet** para cálculo de frete, geração de etiquetas, PDF de comprovante e rastreamento.
-  - 🔐 **Sistema de autenticação robusto** com tokens JWT + refresh em cookies httpOnly, fallback para Safari, controle de sessão por dispositivo com fingerprint e painel de revogação.
-  - 🔄 **Notificações em tempo real** com Socket.IO autenticado por sessionId, usado para aprovações de pagamento, alertas e mensagens do sistema.
-  - 🐳 **Ambiente containerizado com Docker** em VPS Linux, utilizando GitHub Actions para CI/CD e separação de containers por serviço.
+### Plataforma de e-commerce com ERP Sankhya
+Projeto full stack voltado a operações comerciais, pagamentos e integração com ERP, utilizando `Next.js`, `NestJS` e `Oracle`.
 
-- 💬 **Bot de WhatsApp para aprovação de crédito**  
-  Aplicação Node.js que interage com supervisores e vendedores via WhatsApp para **aprovação automática de limite de crédito excedido**.  
-  Principais recursos:
-  - 🤖 Controle de sessões com Redis e identificação de dispositivos.
-  - ⏱️ Fila com tempo limite para resposta (BullMQ), expirando automaticamente se não houver ação.
-  - 🔁 Notificações automáticas para vendedor conforme decisão do supervisor.
+Principais entregas:
+- Integração com `Sankhya`, incluindo sincronização de pedidos, boletos e rotinas operacionais.
+- Implementação de fluxo de crediário com `PIX`, cálculo de juros e atualização automática no ERP.
+- Integração com serviços de frete para cálculo, etiquetas e rastreamento.
+- Autenticação com `JWT`, `refresh token`, cookies `httpOnly` e controle de sessão por dispositivo.
+- Estrutura de deploy com `Docker`, `VPS Linux` e `GitHub Actions`.
 
+### Bot de WhatsApp para aprovação de crédito
+Aplicação `Node.js` para automatizar aprovação de limite de crédito entre vendedores e supervisores.
+
+Principais entregas:
+- Controle de sessão e estado com `Redis`.
+- Filas e expiração automática de solicitações com `BullMQ`.
+- Notificações automatizadas com base na resposta do aprovador.
+- Redução de etapas manuais no fluxo de autorização.
 
 ---
 
-### 🌍 Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/max-yuri-2b597822a">
@@ -90,10 +87,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxyuri99&show_icons=true&theme=radical&hide=stars" />
-</p>
-
----
-
-<p align="center">
-  Feito com dedicação por <strong>Max Yuri Ferreira dos Santos</strong> 🤘
 </p>
