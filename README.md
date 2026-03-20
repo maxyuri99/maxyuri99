@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00DC82&center=true&vCenter=true&width=700&height=60&lines=Node.js+%7C+TypeScript+%7C+React+%7C+Fastify;NestJS+%7C+Redis+%7C+BullMQ+%7C+Oracle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00DC82&center=true&vCenter=true&width=760&height=60&lines=Node.js+%7C+TypeScript+%7C+Fastify+%7C+Redis;APIs+%7C+Integra%C3%A7%C3%B5es+%7C+Filas+%7C+Backoffice;Compliance+%7C+Autentica%C3%A7%C3%A3o+%7C+BullMQ+%7C+RabbitMQ" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,6 +50,24 @@ Gosto de trabalhar em problemas que exigem organização no backend, clareza nas
 ---
 
 ## Projetos em destaque
+
+### Plataforma de compliance e backoffice
+Atuação em sistemas internos voltados a compliance, onboarding, auditoria e operação de backoffice, com foco em backend e integração entre serviços.
+
+Principais entregas:
+- Desenvolvimento de APIs e BFFs com `Node.js`, `TypeScript`, `Fastify`, `Prisma` e `Redis`.
+- Implementação de autenticação com `JWT`, cookies assinados, controle de sessão e validação por dispositivo.
+- Estruturação de permissões por perfil, controle de acesso, auditoria e módulos administrativos.
+- Integração entre serviços de compliance, operações financeiras e sistemas internos de suporte ao backoffice.
+
+### Pipeline de verificação documental
+Desenvolvimento e evolução de fluxos automatizados para análise documental e validação de dados, com processamento assíncrono e regras de negócio no backend.
+
+Principais entregas:
+- Orquestração de processamento com `BullMQ`, `RabbitMQ`, `Redis` e workers em `Node.js`.
+- Extração estruturada de dados, validação automática de campos e tratamento de inconsistências cadastrais.
+- Separação entre extração assistida por IA e validação determinística em código `TypeScript`.
+- Fluxos complementares de biometria, comparação facial, liveness e integração com serviços externos.
 
 ### Plataforma de e-commerce com ERP Sankhya
 Projeto full stack voltado a operações comerciais, pagamentos e integração com ERP, utilizando `Next.js`, `NestJS` e `Oracle`.
